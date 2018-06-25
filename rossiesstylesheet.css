@@ -1,7 +1,11 @@
+
 ul {	
 color: red;
 }
 
 p1 {
 	color: blue;
+	font-family: 'Roboto', sans-serif;
 }
+
+*{font-family: 'Shrikhand', cursive;}

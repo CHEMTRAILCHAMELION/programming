@@ -1,11 +1,13 @@
 
 ul {	
 color: red;
+font-size: 150%;
 }
 
 p1 {
 	color: blue;
 	font-family: 'Roboto', sans-serif;
+	font-size: 80%;
 }
 
 *{font-family: 'Shrikhand', cursive;}
